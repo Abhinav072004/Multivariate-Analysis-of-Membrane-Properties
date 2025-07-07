@@ -135,6 +135,4 @@
 ---
 
 
-### 🔑 Keywords *(ATS‑Friendly)*
 
-`Partial Least Squares`, `PLS Regression`, `Multivariate Analysis`, `Process Data Analysis`, `Chemical Engineering`, `Machine Learning`, `Python`, `Data Preprocessing`, `EDA`, `Cross‑Validation`, `SIMCA`, `Statistical Modeling`, `Predictive Analytics`, `Membrane Technology`, `Transport Properties`, `Mechanical Properties`, `Electrical Properties`, `Feature Importance`, `Model Validation`, `Git`, `Scikit‑learn`
