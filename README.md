@@ -87,8 +87,8 @@
 | -------------------------------- | ----------------------------- | ------------------------------------------------------------------- |
 | Abhinav Singh *(230008002)*      | Data Preprocessing & EDA Lead | [che230008002@iiti.ac.in](mailto:che230008002@iiti.ac.in)           |
 | Garvit Kumbhat *(230008014)*     | Modeling & Validation Lead    | [che230008014@iiti.ac.in](mailto:che230008014@iiti.ac.in)         |
-| Mohak Dadhich *(230008023)*      | Visualization & Reporting     | [che230008023@iiti.ac.in](mailto:che230008023@iiti.ac.in)           |
-| Vighnesh Mandwaria *(230008039)* | Documentation & QA            | [che230008039@iiti.ac.in](mailto:che230008039@iiti.ac.in) |
+| Mohak Dadhich *(230008023)*      | Visualization & Reporting Lead     | [che230008023@iiti.ac.in](mailto:che230008023@iiti.ac.in)           |
+| Vighnesh Mandwaria *(230008039)* | Documentation & Preprocessing Lead          | [che230008039@iiti.ac.in](mailto:che230008039@iiti.ac.in) |
 
 ---
 
