@@ -85,10 +85,10 @@
 
 | Name                             | Role                          | Email                                                               |
 | -------------------------------- | ----------------------------- | ------------------------------------------------------------------- |
-| Abhinav Singh *(230008002)*      | Data Preprocessing & EDA Lead | [abhinavsingh@iiti.ac.in](mailto:abhinavsingh@iiti.ac.in)           |
-| Garvit Kumbhat *(230008014)*     | Modeling & Validation Lead    | [garvitkumbhat@iiti.ac.in](mailto:garvitkumbhat@iiti.ac.in)         |
-| Mohak Dadhich *(230008023)*      | Visualization & Reporting     | [mohakdadhich@iiti.ac.in](mailto:mohakdadhich@iiti.ac.in)           |
-| Vighnesh Mandwaria *(230008039)* | Documentation & QA            | [vighneshmandwaria@iiti.ac.in](mailto:vighneshmandwaria@iiti.ac.in) |
+| Abhinav Singh *(230008002)*      | Data Preprocessing & EDA Lead | [che230008002@iiti.ac.in](mailto:che230008002@iiti.ac.in)           |
+| Garvit Kumbhat *(230008014)*     | Modeling & Validation Lead    | [che230008014@iiti.ac.in](mailto:che230008014@iiti.ac.in)         |
+| Mohak Dadhich *(230008023)*      | Visualization & Reporting     | [che230008023@iiti.ac.in](mailto:che230008023@iiti.ac.in)           |
+| Vighnesh Mandwaria *(230008039)* | Documentation & QA            | [che230008039@iiti.ac.in](mailto:che230008039@iiti.ac.in) |
 
 ---
 
@@ -134,11 +134,6 @@
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License** — see `LICENSE` for details.
-
----
 
 ### 🔑 Keywords *(ATS‑Friendly)*
 
